@@ -15,6 +15,9 @@
    <feature url="features/runjettyrun_feature_support_jetty9_1.3.5.qualifier.jar" id="runjettyrun_feature_support_jetty9" version="1.3.5.qualifier">
       <category name="RunJettyRun Jetty Support"/>
    </feature>
+   <feature url="features/runjettyrun_feature_support_jetty92_1.3.5.qualifier.jar" id="runjettyrun_feature_support_jetty92" version="1.3.5.qualifier">
+      <category name="RunJettyRun Jetty Support"/>
+   </feature>
    <feature url="features/runjettyrun_feature_support_jetty93_1.3.5.qualifier.jar" id="runjettyrun_feature_support_jetty93" version="1.3.5.qualifier">
       <category name="RunJettyRun Jetty Support"/>
    </feature>
